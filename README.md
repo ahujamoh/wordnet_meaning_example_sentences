@@ -12,3 +12,9 @@ you have to have the following on your system:
 
 run by command:  
   python nltkWordnetWordMeaning.py jun24.txt
+
+
+DISCLAIMER:
+I take no responsibility of what the meaning is/the sentence may or may not be correct.
+I take no responsibility if your system crashes due to running this script
+
