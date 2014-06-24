@@ -11,4 +11,4 @@ you have to have the following on your system:
 2) nltk: www.nltk.org, download the book corpus
 
 run by command:  
-  python nltkWordnetWordMeaning.py <filename>
+  python nltkWordnetWordMeaning.py file1 file2
